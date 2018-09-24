@@ -1,12 +1,8 @@
-title: Blog
-author: Christopher Beitel, Ph.D.
-email: cb@marrow.io
+title: blog
+author: Christopher W. Beitel, Ph.D.
 description: >
-  Building infrastructure for machine learning applications in
-  biology with a special interest in the biomedical sciences and predictive
-  wellness. Ph.D. in Genetics
+  Data Scientist / Mathematician
 
-twitter_username: cwbeitel
 github_username:  cwbeitel
 
 # Minima date format
